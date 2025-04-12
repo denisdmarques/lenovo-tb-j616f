@@ -1,0 +1,1 @@
+cmd_drivers/usb/mtu3/built-in.o :=   rm -f drivers/usb/mtu3/built-in.o; /home/chenyl6/p11-plus-s-kernel/wifi/kernel-4.14/../prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9.1/bin/aarch64-linux-androidkernel-ar rcSTPD drivers/usb/mtu3/built-in.o drivers/usb/mtu3/mt6785/built-in.o drivers/usb/mtu3/mtu3_debugfs_v2.o drivers/usb/mtu3/musb_hdrc.o 

@@ -1,0 +1,1 @@
+cmd_drivers/block/zram/zram.o :=  rm -f drivers/block/zram/zram.o; /home/chenyl6/p11-plus-s-kernel/wifi/kernel-4.14/../prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9.1/bin/aarch64-linux-androidkernel-ar rcSTPD drivers/block/zram/zram.o drivers/block/zram/zcomp.o drivers/block/zram/zram_drv.o 

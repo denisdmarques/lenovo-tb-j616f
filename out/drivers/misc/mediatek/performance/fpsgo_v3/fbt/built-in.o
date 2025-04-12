@@ -1,0 +1,12 @@
+!<thin>
+//                                              92        `
+platform/mt6785/fbt_cpu_platform.o/
+src/fbt_cpu.o/
+src/xgf.o/
+src/mini_top.o/
+src/uboost.o/
+/0              0           0     0     644     24648     `
+/36             0           0     0     644     640376    `
+/51             0           0     0     644     626048    `
+/62             0           0     0     644     240152    `
+/78             0           0     0     644     158040    `

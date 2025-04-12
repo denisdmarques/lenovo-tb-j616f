@@ -1,0 +1,1 @@
+cmd_drivers/hid/i2c-hid/built-in.o :=   rm -f drivers/hid/i2c-hid/built-in.o; /home/chenyl6/p11-plus-s-kernel/wifi/kernel-4.14/../prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9.1/bin/aarch64-linux-androidkernel-ar rcSTPD drivers/hid/i2c-hid/built-in.o drivers/hid/i2c-hid/i2c-hid.o 

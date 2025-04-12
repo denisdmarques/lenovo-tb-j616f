@@ -1,0 +1,55 @@
+!<thin>
+//                                              536       `
+mt6359.o/
+smartpa-info.o/
+aw881xx/aw881xx.o/
+aw881xx/aw881xx_monitor.o/
+aw881xx/aw881xx_cali.o/
+aw883xx/aw883xx.o/
+aw883xx/aw_monitor.o/
+aw883xx/aw_bin_parse.o/
+aw883xx/aw_device.o/
+aw883xx/aw_init.o/
+aw883xx/aw_calib.o/
+aw883xx/aw_spin.o/
+dbmdx/dbmdx.o/
+dbmdx/dbmdx-spi.o/
+dbmdx/dbmdx-i2c.o/
+dbmdx/dbmdx-i2c-d2.o/
+dbmdx/dbmdx-i2c-d4.o/
+dbmdx/dbmdx-spi-d2.o/
+dbmdx/dbmdx-spi-d4.o/
+dbmdx/dbmdx-uart-d2.o/
+dbmdx/dbmdx-uart-d4.o/
+dbmdx/dbmdx-uart.o/
+dbmdx/dbmdx-i2s.o/
+dbmdx/dbmdx-customer.o/
+dbmdx/dbmdx-cdev.o/
+dbmdx/dbmdx-snd-codec.o/
+
+/0              0           0     0     644     651344    `
+/10             0           0     0     644     128600    `
+/26             0           0     0     644     746152    `
+/45             0           0     0     644     273512    `
+/72             0           0     0     644     353856    `
+/96             0           0     0     644     538128    `
+/115            0           0     0     644     315784    `
+/137            0           0     0     644     257696    `
+/161            0           0     0     644     391288    `
+/182            0           0     0     644     293808    `
+/201            0           0     0     644     433808    `
+/221            0           0     0     644     306128    `
+/240            0           0     0     644     1536240   `
+/255            0           0     0     644     323168    `
+/274            0           0     0     644     283232    `
+/293            0           0     0     644     234088    `
+/315            0           0     0     644     232456    `
+/337            0           0     0     644     248952    `
+/359            0           0     0     644     270792    `
+/381           /0           0     0     644     271624    `
+/404           /0           0     0     644     267968    `
+/427            0           0     0     644     337440    `
+/447            0           0     0     644     209712    `
+/466            0           0     0     644     274520    `
+/490            0           0     0     644     229560    `
+/510            0           0     0     644     251248    `

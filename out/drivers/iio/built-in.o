@@ -1,0 +1,16 @@
+!<thin>
+//                                              138       `
+industrialio-core.o/
+industrialio-event.o/
+inkern.o/
+industrialio-buffer.o/
+adc/mt6577_auxadc.o/
+adc/mt635x-auxadc.o/
+buffer/kfifo_buf.o/
+/0              0           0     0     644     286480    `
+/21             0           0     0     644     172832    `
+/43             0           0     0     644     213648    `
+/53             0           0     0     644     249696    `
+/76            /0           0     0     644     188392    `
+/97            /0           0     0     644     170936    `
+/118            0           0     0     644     156872    `

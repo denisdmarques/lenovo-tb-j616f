@@ -1,0 +1,10 @@
+!<thin>
+//                                              112       `
+camera_hw/regulator/regulator.o/
+camera_hw/gpio/gpio.o/
+camera_hw/mclk/mclk.o/
+camera_hw/imgsensor_cfg_table.o/
+/0              0           0     0     644     148632    `
+/33             0           0     0     644     139304    `
+/56             0           0     0     644     141904    `
+/79             0           0     0     644     133384    `

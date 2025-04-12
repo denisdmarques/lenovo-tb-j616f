@@ -1,0 +1,55 @@
+!<thin>
+//                                              604       `
+tee/tee_core.o/
+tee/tee_shm.o/
+tee/tee_shm_pool.o/
+tee/tee_client_api.o/
+tee/soter/core.o/
+tee/soter/call.o/
+tz_driver/teei_client_main.o/
+tz_driver/fdrv.o/
+tz_driver/backward_driver.o/
+tz_driver/irq_register.o/
+tz_driver/notify_queue.o/
+tz_driver/teei_fp.o/
+tz_driver/teei_smc_call.o/
+tz_driver/tz_log.o/
+tz_driver/switch_queue.o/
+tz_driver/teei_keymaster.o/
+tz_driver/teei_cancel_cmd.o/
+tz_driver/teei_client_transfer_data.o/
+tz_driver/sysfs.o/
+tz_driver/teei_task_link.o/
+tz_vfs/vfsFun.o/
+tz_vfs/fp_vendor.o/
+teei_fp/fp_func.o/
+ut_keymaster/ut_keymaster.o/
+tz_dcih/tz_dcih.o/
+tz_dcih/tz_dcih_test.o/
+
+/0              0           0     0     644     435936    `
+/16             0           0     0     644     157472    `
+/31             0           0     0     644     133944    `
+/51             0           0     0     644     190600    `
+/73             0           0     0     644     153824    `
+/91             0           0     0     644     36984     `
+/109            0           0     0     644     237552    `
+/139            0           0     0     644     22776     `
+/157            0           0     0     644     31984     `
+/186            0           0     0     644     26616     `
+/212            0           0     0     644     25768     `
+/238            0           0     0     644     8736      `
+/259           /0           0     0     644     12240     `
+/286            0           0     0     644     169824    `
+/306            0           0     0     644     153384    `
+/332            0           0     0     644     7720      `
+/360            0           0     0     644     7496      `
+/389            0           0     0     644     63712     `
+/428            0           0     0     644     190096    `
+/447            0           0     0     644     20080     `
+/475            0           0     0     644     181592    `
+/492            0           0     0     644     9056      `
+/512            0           0     0     644     180232    `
+/531            0           0     0     644     164848    `
+/560            0           0     0     644     124992    `
+/579            0           0     0     644     123776    `

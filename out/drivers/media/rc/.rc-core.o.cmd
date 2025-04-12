@@ -1,0 +1,1 @@
+cmd_drivers/media/rc/rc-core.o :=  rm -f drivers/media/rc/rc-core.o; /home/chenyl6/p11-plus-s-kernel/wifi/kernel-4.14/../prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9.1/bin/aarch64-linux-androidkernel-ar rcSTPD drivers/media/rc/rc-core.o drivers/media/rc/rc-main.o drivers/media/rc/rc-ir-raw.o 

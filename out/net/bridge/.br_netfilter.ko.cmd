@@ -1,0 +1,1 @@
+cmd_net/bridge/br_netfilter.ko := /home/chenyl6/p11-plus-s-kernel/wifi/kernel-4.14/../prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9.1/bin/aarch64-linux-androidkernel-ld -EL -r  -maarch64linux -T ../scripts/module-common.lds -T ../arch/arm64/kernel/module.lds --build-id  -o net/bridge/br_netfilter.ko net/bridge/br_netfilter.o net/bridge/br_netfilter.mod.o ;  true

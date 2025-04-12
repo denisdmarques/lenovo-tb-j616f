@@ -1,0 +1,39 @@
+!<thin>
+//                                              370       `
+mtk_vcodec_dec_drv.o/
+vdec_drv_if.o/
+mtk_vcodec_dec.o/
+mt6785/mtk_vcodec_dec_pm.o/
+vdec/vdec_common_if.o/
+vdec/vdec_log_if.o/
+vdec_vcu_if.o/
+mtk_vcodec_enc.o/
+mtk_vcodec_enc_drv.o/
+mt6785/mtk_vcodec_enc_pm.o/
+venc_drv_if.o/
+venc/venc_common_if.o/
+venc/venc_log_if.o/
+venc_vcu_if.o/
+mt6785/mtk_vcodec_intr.o/
+mtk_vcodec_util.o/
+mt6785/vcodec_dvfs.o/
+mt6785/vcodec_bw.o/
+
+/0              0           0     0     644     300824    `
+/22             0           0     0     644     225576    `
+/37             0           0     0     644     390512    `
+/55             0           0     0     644     278136    `
+/83             0           0     0     644     250640    `
+/106            0           0     0     644     206552    `
+/126            0           0     0     644     269056    `
+/141            0           0     0     644     402472    `
+/159            0           0     0     644     297712    `
+/181            0           0     0     644     240872    `
+/209            0           0     0     644     234008    `
+/224            0           0     0     644     241984    `
+/247            0           0     0     644     209792    `
+/267            0           0     0     644     249640    `
+/282            0           0     0     644     234912    `
+/308            0           0     0     644     263448    `
+/327            0           0     0     644     33624     `
+/349            0           0     0     644     8240      `

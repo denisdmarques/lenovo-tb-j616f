@@ -1,0 +1,70 @@
+!<thin>
+//                                              944       `
+common/mtk_idle_fs/mtk_lp_kernfs.o/
+common/mtk_idle_fs/mtk_lp_sysfs.o/
+common/mtk_idle_fs/mtk_idle_sysfs.o/
+common/mtk_idle_fs/mtk_lp_sysfs_procfs.o/
+common/mtk_idle.o/
+common/mtk_idle_select.o/
+common/mtk_idle_internal.o/
+common/mtk_idle_profile.o/
+common/mtk_idle_twam.o/
+common/mtk_spm_resource_req.o/
+common/mtk_sleep.o/
+common/mtk_sleep_init.o/
+common/mtk_vcore_dvfs.o/
+common/mtk_idle_module.o/
+common/mtk_idle_export_legacy.o/
+mt6785/mtk_spm.o/
+mt6785/mtk_spm_twam.o/
+mt6785/mtk_spm_irq.o/
+mt6785/mtk_spm_dram.o/
+mt6785/mtk_spm_internal.o/
+mt6785/mtk_spm_suspend.o/
+mt6785/mtk_spm_suspend_process.o/
+mt6785/mtk_sspm.o/
+mt6785/mtk_spm_power.o/
+mt6785/mtk_spm_fs.o/
+mt6785/mtk_spm_utils.o/
+mt6785/mtk_idle_cond_check.o/
+mt6785/mtk_spm_idle.o/
+mt6785/mtk_spm_vcore_dvfs.o/
+mt6785/mtk_idle_module_plat.o/
+mt6785/mtk_spm_resource_req_console.o/
+mt6785/models/mtk_idle_dram.o/
+mt6785/models/mtk_idle_syspll.o/
+mt6785/models/mtk_idle_bus26m.o/
+/0             /0           0     0     644     121320    `
+/36             0           0     0     644     13128     `
+/71             0           0     0     644     108544    `
+/108            0           0     0     644     112392    `
+/150            0           0     0     644     22600     `
+/169            0           0     0     644     14832     `
+/195            0           0     0     644     15992     `
+/223            0           0     0     644     25496     `
+/250           /0           0     0     644     9584      `
+/274            0           0     0     644     135912    `
+/305            0           0     0     644     181816    `
+/325            0           0     0     644     5432      `
+/350            0           0     0     644     9664      `
+/375            0           0     0     644     71128     `
+/401            0           0     0     644     7504      `
+/434            0           0     0     644     189216    `
+/452            0           0     0     644     25328     `
+/475            0           0     0     644     157712    `
+/497            0           0     0     644     8320      `
+/520            0           0     0     644     45536     `
+/547            0           0     0     644     62376     `
+/573            0           0     0     644     26272     `
+/607            0           0     0     644     14360     `
+/626           /0           0     0     644     12312     `
+/650            0           0     0     644     232008    `
+/671           /0           0     0     644     299840    `
+/695            0           0     0     644     185056    `
+/725            0           0     0     644     166968    `
+/748            0           0     0     644     13920     `
+/777            0           0     0     644     111928    `
+/808            0           0     0     644     41888     `
+/847           /0           0     0     644     21592     `
+/878            0           0     0     644     21120     `
+/911            0           0     0     644     21120     `

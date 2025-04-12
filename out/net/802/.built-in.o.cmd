@@ -1,0 +1,1 @@
+cmd_net/802/built-in.o :=   rm -f net/802/built-in.o; /home/chenyl6/p11-plus-s-kernel/wifi/kernel-4.14/../prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9.1/bin/aarch64-linux-androidkernel-ar rcSTPD net/802/built-in.o net/802/p8022.o net/802/psnap.o net/802/stp.o 

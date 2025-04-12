@@ -1,0 +1,67 @@
+!<thin>
+//                                              1068      `
+sensorHub/SCP_nanoHub/SCP_nanoHub.o/
+sensorHub/SCP_power_monitor/SCP_power_monitor.o/
+hwmon/hwmsen/hwmsen_helper.o/
+hwmon/sensor_dts/sensor_dts.o/
+hwmon/sensor_attributes/sensor_attr.o/
+hwmon/sensor_event/sensor_event.o/
+hwmon/sensor_performance/sensor_performance.o/
+hwmon/sensor_list/sensor_list.o/
+alsps/alsps.o/
+alsps/alsps_factory.o/
+alsps/aal_control.o/
+alsps/alspshub/alspshub.o/
+accelerometer/accel.o/
+accelerometer/accel_factory.o/
+accelerometer/accelhub/accelhub.o/
+gyroscope/gyroscope.o/
+gyroscope/gyro_factory.o/
+gyroscope/gyrohub/gyrohub.o/
+situation/situation.o/
+situation/stationary/stationary.o/
+situation/wake_gesture/wake_gesture.o/
+situation/glance_gesture/glance_gesture.o/
+situation/pickup_gesture/pickup_gesture.o/
+situation/device_orientation/device_orientation.o/
+situation/motion_detect/motion_detect.o/
+situation/tilt_detector/tiltdetecthub.o/
+situation/sar/sarhub.o/
+situation/sar/sar_factory.o/
+situation/sar/sx933x/sx933x.o/
+sensorfusion/fusion.o/
+sensorfusion/uncali_acchub/uncali_acchub.o/
+sensorfusion/uncali_gyrohub/uncali_gyrohub.o/
+
+/0              0           0     0     644     377392    `
+/37             0           0     0     644     18480     `
+/86            /0           0     0     644     212024    `
+/116            0           0     0     644     139032    `
+/147            0           0     0     644     132232    `
+/186            0           0     0     644     122888    `
+/221            0           0     0     644     1232      `
+/268            0           0     0     644     146056    `
+/301            0           0     0     644     256536    `
+/316           /0           0     0     644     179472    `
+/339            0           0     0     644     139920    `
+/360            0           0     0     644     250464    `
+/387            0           0     0     644     212336    `
+/410           /0           0     0     644     158840    `
+/441            0           0     0     644     217480    `
+/476            0           0     0     644     219984    `
+/499            0           0     0     644     160224    `
+/525            0           0     0     644     223592    `
+/554            0           0     0     644     189864    `
+/577            0           0     0     644     22056     `
+/612            0           0     0     644     22208     `
+/651            0           0     0     644     21552     `
+/694            0           0     0     644     21576     `
+/737            0           0     0     644     22712     `
+/788           /0           0     0     644     22360     `
+/829           /0           0     0     644     21728     `
+/870            0           0     0     644     6536      `
+/894            0           0     0     644     137296    `
+/923            0           0     0     644     340448    `
+/954            0           0     0     644     212472    `
+/977           /0           0     0     644     22280     `
+/1021           0           0     0     644     25232     `

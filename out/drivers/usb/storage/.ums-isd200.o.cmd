@@ -1,0 +1,1 @@
+cmd_drivers/usb/storage/ums-isd200.o :=  rm -f drivers/usb/storage/ums-isd200.o; /home/chenyl6/p11-plus-s-kernel/wifi/kernel-4.14/../prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9.1/bin/aarch64-linux-androidkernel-ar rcSTPD drivers/usb/storage/ums-isd200.o drivers/usb/storage/isd200.o 

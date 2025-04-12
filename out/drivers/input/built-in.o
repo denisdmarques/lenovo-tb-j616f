@@ -1,0 +1,70 @@
+!<thin>
+//                                              1142      `
+input.o/
+input-compat.o/
+input-mt.o/
+ff-core.o/
+input-leds.o/
+evdev.o/
+keyboard/mediatek/kpd.o/
+keyboard/mediatek/mt6785/hal_kpd.o/
+joystick/xpad.o/
+touchscreen/of_touchscreen.o/
+touchscreen/mediatek/mtk_tpd.o/
+touchscreen/mediatek/tpd_button.o/
+touchscreen/mediatek/tpd_calibrate.o/
+touchscreen/mediatek/tpd_debug.o/
+touchscreen/mediatek/tpd_default.o/
+touchscreen/mediatek/tpd_misc.o/
+touchscreen/mediatek/tpd_setting.o/
+touchscreen/mediatek/hxchipset_p11/himax_ic_HX83102.o/
+touchscreen/mediatek/hxchipset_p11/himax_debug.o/
+touchscreen/mediatek/hxchipset_p11/himax_inspection.o/
+touchscreen/mediatek/hxchipset_p11/himax_ic_incell_core.o/
+touchscreen/mediatek/hxchipset_p11/himax_common.o/
+touchscreen/mediatek/hxchipset_p11/himax_platform.o/
+touchscreen/mediatek/NT36xxx_p11/nt36xxx.o/
+touchscreen/mediatek/NT36xxx_p11/nt36xxx_fw_update.o/
+touchscreen/mediatek/NT36xxx_p11/nt36xxx_ext_proc.o/
+touchscreen/mediatek/NT36xxx_p11/nt36xxx_mp_ctrlram.o/
+touchscreen/mediatek/NT36xxx_p11/nt36xxx_ext_sysfs.o/
+touchscreen/lct_tp_info.o/
+touchscreen/lct_tp_selftest.o/
+touchscreen/lct_tp_work.o/
+misc/uinput.o/
+keycombo.o/
+jdm_sensor/hall/hall.o/
+/0              0           0     0     644     440896    `
+/9              0           0     0     644     115824    `
+/25             0           0     0     644     157240    `
+/37             0           0     0     644     150016    `
+/48             0           0     0     644     141584    `
+/62             0           0     0     644     452944    `
+/71             0           0     0     644     621856    `
+/96             0           0     0     644     581440    `
+/132            0           0     0     644     272848    `
+/149            0           0     0     644     138544    `
+/179            0           0     0     644     239584    `
+/211            0           0     0     644     137832    `
+/246           /0           0     0     644     6296      `
+/284            0           0     0     644     247456    `
+/318            0           0     0     644     3112      `
+/354            0           0     0     644     106840    `
+/387            0           0     0     644     113704    `
+/423            0           0     0     644     279232    `
+/478            0           0     0     644     381672    `
+/528            0           0     0     644     314616    `
+/583            0           0     0     644     425368    `
+/642            0           0     0     644     414720    `
+/693            0           0     0     644     250160    `
+/746            0           0     0     644     365136    `
+/790            0           0     0     644     170792    `
+/844            0           0     0     644     205664    `
+/897            0           0     0     644     492160    `
+/952            0           0     0     644     136896    `
+/1006           0           0     0     644     125704    `
+/1033           0           0     0     644     190112    `
+/1064           0           0     0     644     119552    `
+/1091           0           0     0     644     280920    `
+/1106           0           0     0     644     156648    `
+/1118           0           0     0     644     180448    `

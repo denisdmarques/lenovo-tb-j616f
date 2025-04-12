@@ -1,0 +1,61 @@
+!<thin>
+//                                              1178      `
+supply/power_supply_core.o/
+supply/power_supply_sysfs.o/
+supply/power_supply_leds.o/
+supply/bq27xxx_battery.o/
+supply/bq27xxx_battery_i2c.o/
+supply/mediatek/battery/mtk_battery.o/
+supply/mediatek/battery/mtk_power_misc.o/
+supply/mediatek/battery/mtk_gauge_coulomb_service.o/
+supply/mediatek/battery/mtk_gauge_class.o/
+supply/mediatek/battery/mtk_battery_recovery.o/
+supply/mediatek/battery/mtk_battery_core.o/
+supply/mediatek/charger/charger_class.o/
+supply/mediatek/charger/mtk_charger.o/
+supply/mediatek/charger/mtk_switch_charging.o/
+supply/mediatek/charger/mtk_pdc_intf.o/
+supply/mediatek/charger/mtk_chg_type_det.o/
+supply/mediatek/charger/mtk_pe40_intf.o/
+supply/mediatek/charger/mtk_linear_charging.o/
+supply/mediatek/charger/adapter_class.o/
+supply/mediatek/charger/mtk_pd_adapter.o/
+supply/mediatek/charger/mtk_switch_charging2.o/
+supply/mediatek/charger/mtk_intf.o/
+supply/mediatek/charger/mtk_pe40.o/
+supply/mediatek/charger/mtk_pdc.o/
+supply/mediatek/charger/mtk_dual_switch_charging.o/
+supply/mediatek/charger/mtk_pe_intf.o/
+supply/mediatek/charger/mtk_pe20_intf.o/
+supply/mediatek/charger/SGM41510_charger_lk4p90.o/
+supply/mediatek/misc/mtk_gauge_time_service.o/
+
+/0              0           0     0     644     258288    `
+/28             0           0     0     644     148808    `
+/57             0           0     0     644     127432    `
+/85             0           0     0     644     242488    `
+/111            0           0     0     644     162624    `
+/141            0           0     0     644     666664    `
+/180            0           0     0     644     305296    `
+/222            0           0     0     644     318904    `
+/275            0           0     0     644     359480    `
+/318            0           0     0     644     214360    `
+/366            0           0     0     644     1076216   `
+/410           /0           0     0     644     263552    `
+/451            0           0     0     644     894896    `
+/490            0           0     0     644     342544    `
+/537            0           0     0     644     319840    `
+/577            0           0     0     644     405664    `
+/621           /0           0     0     644     349688    `
+/662            0           0     0     644     318360    `
+/709           /0           0     0     644     151432    `
+/750            0           0     0     644     304992    `
+/792            0           0     0     644     349264    `
+/840            0           0     0     644     301040    `
+/876            0           0     0     644     61808     `
+/912            0           0     0     644     279880    `
+/947            0           0     0     644     357032    `
+/999            0           0     0     644     334368    `
+/1038          /0           0     0     644     342080    `
+/1079           0           0     0     644     411200    `
+/1130           0           0     0     644     213584    `

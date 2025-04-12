@@ -1,0 +1,16 @@
+!<thin>
+//                                              146       `
+mt6785/bwl_platform.o/
+mt6785/mpu_platform.o/
+mt6785/plat_debug_api.o/
+emi_ctrl_v1.o/
+submodule/bwl_v1.o/
+submodule/mpu_v1.o/
+submodule/elm_v2.o/
+/0              0           0     0     644     21168     `
+/23             0           0     0     644     14768     `
+/46             0           0     0     644     91848     `
+/71             0           0     0     644     156808    `
+/86             0           0     0     644     133888    `
+/106            0           0     0     644     188680    `
+/126            0           0     0     644     131336    `

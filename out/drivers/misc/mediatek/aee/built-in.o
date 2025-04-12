@@ -1,0 +1,24 @@
+!<thin>
+//                                              232       `
+common/dummy.o/
+common/aee-common.o/
+common/reboot-reason.o/
+aed/aed-main.o/
+aed/monitor_hang.o/
+mrdump/mrdump_control.o/
+mrdump/mrdump_hw.o/
+mrdump/mrdump_full.o/
+mrdump/mrdump_mini.o/
+mrdump/mrdump_panic.o/
+mrdump/mrdump_arm64.o/
+/0              0           0     0     644     3008      `
+/16             0           0     0     644     189920    `
+/37            /0           0     0     644     130944    `
+/61             0           0     0     644     462168    `
+/77             0           0     0     644     281656    `
+/97             0           0     0     644     139432    `
+/122            0           0     0     644     8552      `
+/142            0           0     0     644     139960    `
+/164            0           0     0     644     225208    `
+/186            0           0     0     644     196784    `
+/209            0           0     0     644     4040      `

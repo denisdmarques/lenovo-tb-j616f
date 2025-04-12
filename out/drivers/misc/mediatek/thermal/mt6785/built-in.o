@@ -1,0 +1,22 @@
+!<thin>
+//                                              216       `
+src/mtk_lvts_tc.o/
+src/mtk_tc.o/
+src/mtk_tc_wrapper.o/
+src/mtk_thermal_ipi.o/
+src/mtk_pmic_efuse.o/
+src/mtk_ts_6359vcore.o/
+src/mtk_ts_6359vproc.o/
+src/mtk_ts_6359vgpu.o/
+src/mtk_ts_6359tsx.o/
+src/mtk_ts_6359dcxo.o/
+/0              0           0     0     644     274480    `
+/19             0           0     0     644     250752    `
+/33             0           0     0     644     163376    `
+/55             0           0     0     644     10744     `
+/78             0           0     0     644     589568    `
+/100            0           0     0     644     186008    `
+/124            0           0     0     644     186008    `
+/148            0           0     0     644     185928    `
+/171            0           0     0     644     185864    `
+/193            0           0     0     644     185936    `

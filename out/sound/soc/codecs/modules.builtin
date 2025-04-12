@@ -1,0 +1,10 @@
+kernel/sound/soc/codecs/snd-soc-mt6359.ko
+kernel/sound/soc/codecs/snd-soc-smartpa-info.ko
+kernel/sound/soc/codecs/aw881xx/snd-soc-aw881xx.ko
+kernel/sound/soc/codecs/aw883xx/aw883xx.ko
+kernel/sound/soc/codecs/aw883xx/aw_monitor.ko
+kernel/sound/soc/codecs/aw883xx/aw_bin_parse.ko
+kernel/sound/soc/codecs/aw883xx/aw_device.ko
+kernel/sound/soc/codecs/aw883xx/aw_init.ko
+kernel/sound/soc/codecs/aw883xx/aw_calib.ko
+kernel/sound/soc/codecs/aw883xx/aw_spin.ko

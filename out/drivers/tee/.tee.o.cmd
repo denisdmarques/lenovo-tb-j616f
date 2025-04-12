@@ -1,0 +1,1 @@
+cmd_drivers/tee/tee.o :=  rm -f drivers/tee/tee.o; /home/chenyl6/p11-plus-s-kernel/wifi/kernel-4.14/../prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9.1/bin/aarch64-linux-androidkernel-ar rcSTPD drivers/tee/tee.o drivers/tee/tee_core.o drivers/tee/tee_shm.o drivers/tee/tee_shm_pool.o 

@@ -1,0 +1,50 @@
+!<thin>
+//                                              652       `
+battery/mtk_battery.o/
+battery/mtk_power_misc.o/
+battery/mtk_gauge_coulomb_service.o/
+battery/mtk_gauge_class.o/
+battery/mtk_battery_recovery.o/
+battery/mtk_battery_core.o/
+charger/charger_class.o/
+charger/mtk_charger.o/
+charger/mtk_switch_charging.o/
+charger/mtk_pdc_intf.o/
+charger/mtk_chg_type_det.o/
+charger/mtk_pe40_intf.o/
+charger/mtk_linear_charging.o/
+charger/adapter_class.o/
+charger/mtk_pd_adapter.o/
+charger/mtk_switch_charging2.o/
+charger/mtk_intf.o/
+charger/mtk_pe40.o/
+charger/mtk_pdc.o/
+charger/mtk_dual_switch_charging.o/
+charger/mtk_pe_intf.o/
+charger/mtk_pe20_intf.o/
+charger/SGM41510_charger_lk4p90.o/
+misc/mtk_gauge_time_service.o/
+/0              0           0     0     644     666664    `
+/23             0           0     0     644     305296    `
+/49             0           0     0     644     318904    `
+/86             0           0     0     644     359480    `
+/113            0           0     0     644     214360    `
+/145            0           0     0     644     1076216   `
+/173           /0           0     0     644     263552    `
+/198            0           0     0     644     894896    `
+/221            0           0     0     644     342544    `
+/252            0           0     0     644     319840    `
+/276            0           0     0     644     405664    `
+/304           /0           0     0     644     349688    `
+/329            0           0     0     644     318360    `
+/360           /0           0     0     644     151432    `
+/385            0           0     0     644     304992    `
+/411            0           0     0     644     349264    `
+/443            0           0     0     644     301040    `
+/463            0           0     0     644     61808     `
+/483            0           0     0     644     279880    `
+/502            0           0     0     644     357032    `
+/538            0           0     0     644     334368    `
+/561           /0           0     0     644     342080    `
+/586            0           0     0     644     411200    `
+/621            0           0     0     644     213584    `

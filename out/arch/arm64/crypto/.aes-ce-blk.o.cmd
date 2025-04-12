@@ -1,0 +1,1 @@
+cmd_arch/arm64/crypto/aes-ce-blk.o :=  rm -f arch/arm64/crypto/aes-ce-blk.o; /home/chenyl6/p11-plus-s-kernel/wifi/kernel-4.14/../prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9.1/bin/aarch64-linux-androidkernel-ar rcSTPD arch/arm64/crypto/aes-ce-blk.o arch/arm64/crypto/aes-glue-ce.o arch/arm64/crypto/aes-ce.o 

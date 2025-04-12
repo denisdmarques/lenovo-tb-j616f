@@ -1,0 +1,1 @@
+cmd_drivers/mfd/built-in.o :=   rm -f drivers/mfd/built-in.o; /home/chenyl6/p11-plus-s-kernel/wifi/kernel-4.14/../prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9.1/bin/aarch64-linux-androidkernel-ar rcSTPD drivers/mfd/built-in.o drivers/mfd/mfd-core.o drivers/mfd/syscon.o drivers/mfd/mt6358-core.o drivers/mfd/mt635x-ot-debug.o drivers/mfd/mt6358-misc.o 

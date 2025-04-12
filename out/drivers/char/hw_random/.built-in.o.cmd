@@ -1,0 +1,1 @@
+cmd_drivers/char/hw_random/built-in.o :=   rm -f drivers/char/hw_random/built-in.o; /home/chenyl6/p11-plus-s-kernel/wifi/kernel-4.14/../prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9.1/bin/aarch64-linux-androidkernel-ar rcSTPD drivers/char/hw_random/built-in.o drivers/char/hw_random/rng-core.o drivers/char/hw_random/mt67xx-rng.o 

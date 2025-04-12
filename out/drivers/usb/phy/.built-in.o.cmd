@@ -1,0 +1,1 @@
+cmd_drivers/usb/phy/built-in.o :=   rm -f drivers/usb/phy/built-in.o; /home/chenyl6/p11-plus-s-kernel/wifi/kernel-4.14/../prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9.1/bin/aarch64-linux-androidkernel-ar rcSTPD drivers/usb/phy/built-in.o drivers/usb/phy/phy.o drivers/usb/phy/of.o drivers/usb/phy/class-dual-role.o drivers/usb/phy/phy-generic.o 

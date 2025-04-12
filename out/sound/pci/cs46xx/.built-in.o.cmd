@@ -1,0 +1,1 @@
+cmd_sound/pci/cs46xx/built-in.o :=  rm -f sound/pci/cs46xx/built-in.o; /home/chenyl6/p11-plus-s-kernel/wifi/kernel-4.14/../prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9.1/bin/aarch64-linux-androidkernel-ar rcSTPD sound/pci/cs46xx/built-in.o

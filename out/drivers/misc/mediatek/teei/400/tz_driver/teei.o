@@ -1,0 +1,30 @@
+!<thin>
+//                                              226       `
+teei_client_main.o/
+fdrv.o/
+backward_driver.o/
+irq_register.o/
+notify_queue.o/
+teei_fp.o/
+teei_smc_call.o/
+tz_log.o/
+switch_queue.o/
+teei_keymaster.o/
+teei_cancel_cmd.o/
+teei_client_transfer_data.o/
+sysfs.o/
+teei_task_link.o/
+/0              0           0     0     644     237552    `
+/20             0           0     0     644     22776     `
+/28             0           0     0     644     31984     `
+/47             0           0     0     644     26616     `
+/63             0           0     0     644     25768     `
+/79             0           0     0     644     8736      `
+/90            /0           0     0     644     12240     `
+/107            0           0     0     644     169824    `
+/117            0           0     0     644     153384    `
+/133            0           0     0     644     7720      `
+/151            0           0     0     644     7496      `
+/170            0           0     0     644     63712     `
+/199            0           0     0     644     190096    `
+/208            0           0     0     644     20080     `

@@ -1,0 +1,26 @@
+!<thin>
+//                                              282       `
+pmu/mt6360_pmu_i2c.o/
+pmu/mt6360_pmu_regmap.o/
+pmu/mt6360_pmu_irq.o/
+pmu/mt6360_pmu_subdev.o/
+pmu/mt6360_pmu_core.o/
+pmu/mt6360_pmu_adc.o/
+pmu/mt6360_pmu_fled.o/
+pmu/mt6360_pmu_chg.o/
+pmic/mt6360_pmic_i2c.o/
+pmic/mt6360_pmic_regmap.o/
+ldo/mt6360_ldo_i2c.o/
+ldo/mt6360_ldo_regmap.o/
+/0              0           0     0     644     191072    `
+/22             0           0     0     644     202144    `
+/47             0           0     0     644     161936    `
+/69             0           0     0     644     137744    `
+/94             0           0     0     644     161224    `
+/117            0           0     0     644     201040    `
+/139            0           0     0     644     214920    `
+/162            0           0     0     644     1053880   `
+/184            0           0     0     644     295776    `
+/208            0           0     0     644     146552    `
+/235            0           0     0     644     261200    `
+/257            0           0     0     644     134728    `

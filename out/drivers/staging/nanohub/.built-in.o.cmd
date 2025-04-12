@@ -1,0 +1,1 @@
+cmd_drivers/staging/nanohub/built-in.o :=   rm -f drivers/staging/nanohub/built-in.o; /home/chenyl6/p11-plus-s-kernel/wifi/kernel-4.14/../prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9.1/bin/aarch64-linux-androidkernel-ar rcSTPD drivers/staging/nanohub/built-in.o drivers/staging/nanohub/nanohub.o 

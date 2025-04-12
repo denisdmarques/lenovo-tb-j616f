@@ -1,0 +1,14 @@
+!<thin>
+//                                              116       `
+extcon.o/
+devres.o/
+mediatek/extcon_usb.o/
+mediatek/boost_manager.o/
+mediatek/usb-tcpc.o/
+mediatek/usb_dual_role.o/
+/0              0           0     0     644     234224    `
+/10             0           0     0     644     131120    `
+/20             0           0     0     644     154448    `
+/43            /0           0     0     644     150976    `
+/69             0           0     0     644     23424     `
+/90            /0           0     0     644     123832    `

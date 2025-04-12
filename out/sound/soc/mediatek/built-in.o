@@ -1,0 +1,47 @@
+!<thin>
+//                                              568       `
+common/mtk-mmap-ion.o/
+common/mtk-afe-platform-driver.o/
+common/mtk-afe-fe-dai.o/
+common/mtk-sram-manager.o/
+common/mtk-sp-pcm-ops.o/
+common/mtk-afe-debug.o/
+common/mtk-sp-spk-amp.o/
+common/mtk-usip.o/
+common/mtk-btcvsd.o/
+mt6785/mt6785-afe-pcm.o/
+mt6785/mt6785-afe-clk.o/
+mt6785/mt6785-afe-gpio.o/
+mt6785/mt6785-dai-adda.o/
+mt6785/mt6785-afe-control.o/
+mt6785/mt6785-dai-i2s.o/
+mt6785/mt6785-dai-hw-gain.o/
+mt6785/mt6785-dai-src.o/
+mt6785/mt6785-dai-pcm.o/
+mt6785/mt6785-dai-tdm.o/
+mt6785/mt6785-dai-hostless.o/
+mt6785/mt6785-misc-control.o/
+mt6785/mt6785-mt6359.o/
+
+/0              0           0     0     644     145032    `
+/23             0           0     0     644     215920    `
+/57             0           0     0     644     276344    `
+/82             0           0     0     644     147080    `
+/109            0           0     0     644     146312    `
+/134           /0           0     0     644     199664    `
+/158            0           0     0     644     223704    `
+/183            0           0     0     644     130512    `
+/202            0           0     0     644     323216    `
+/223            0           0     0     644     405824    `
+/248            0           0     0     644     254656    `
+/273            0           0     0     644     194432    `
+/299            0           0     0     644     286904    `
+/325            0           0     0     644     207272    `
+/354            0           0     0     644     305648    `
+/379            0           0     0     644     197528    `
+/408            0           0     0     644     232816    `
+/433            0           0     0     644     211408    `
+/458            0           0     0     644     226968    `
+/483            0           0     0     644     200808    `
+/513            0           0     0     644     393344    `
+/543           /0           0     0     644     255704    `

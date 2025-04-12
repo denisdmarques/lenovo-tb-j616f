@@ -1,0 +1,19 @@
+!<thin>
+//                                              184       `
+mt6785/external_display.o/
+mt6785/mtk_extd_mgr.o/
+mt6785/extd_debug.o/
+mt6785/extd_utils.o/
+mt6785/extd_hdmi.o/
+mt6785/extd_epd.o/
+mt6785/extd_multi_control.o/
+mt6785/extd_factory.o/
+
+/0              0           0     0     644     479072    `
+/27             0           0     0     644     236904    `
+/50             0           0     0     644     1224      `
+/71             0           0     0     644     18040     `
+/92             0           0     0     644     4832      `
+/112            0           0     0     644     4832      `
+/131            0           0     0     644     216608    `
+/160            0           0     0     644     5440      `

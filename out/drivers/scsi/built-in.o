@@ -1,0 +1,50 @@
+!<thin>
+//                                              368       `
+scsi.o/
+hosts.o/
+scsi_ioctl.o/
+scsicam.o/
+scsi_error.o/
+scsi_lib.o/
+scsi_common.o/
+scsi_lib_dma.o/
+scsi_scan.o/
+scsi_sysfs.o/
+scsi_devinfo.o/
+scsi_sysctl.o/
+scsi_proc.o/
+scsi_trace.o/
+scsi_logging.o/
+scsi_pm.o/
+ufs/ufshcd.o/
+ufs/ufshcd-crypto.o/
+ufs/ufshcd-pltfrm.o/
+ufs/ufs-mtk.o/
+ufs/mediatek/mt6785/ufs-mtk-platform.o/
+ufs/ufs-mtk-block.o/
+ufs/ufs-mtk-dbg.o/
+sd.o/
+/0              0           0     0     644     388664    `
+/8              0           0     0     644     224336    `
+/17             0           0     0     644     230768    `
+/31             0           0     0     644     160440    `
+/42             0           0     0     644     349976    `
+/56             0           0     0     644     524240    `
+/68             0           0     0     644     24448     `
+/83             0           0     0     644     169808    `
+/99             0           0     0     644     292488    `
+/112            0           0     0     644     316904    `
+/126            0           0     0     644     241496    `
+/142            0           0     0     644     10680     `
+/157            0           0     0     644     214824    `
+/170            0           0     0     644     36976     `
+/184            0           0     0     644     208744    `
+/200            0           0     0     644     196200    `
+/211            0           0     0     644     1442848   `
+/225           /0           0     0     644     239832    `
+/246           /0           0     0     644     235712    `
+/267            0           0     0     644     516736    `
+/282            0           0     0     644     683296    `
+/322           /0           0     0     644     206224    `
+/343            0           0     0     644     266480    `
+/362            0           0     0     644     464288    `

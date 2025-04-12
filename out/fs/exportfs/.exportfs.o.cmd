@@ -1,0 +1,1 @@
+cmd_fs/exportfs/exportfs.o :=  rm -f fs/exportfs/exportfs.o; /home/chenyl6/p11-plus-s-kernel/wifi/kernel-4.14/../prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9.1/bin/aarch64-linux-androidkernel-ar rcSTPD fs/exportfs/exportfs.o fs/exportfs/expfs.o 

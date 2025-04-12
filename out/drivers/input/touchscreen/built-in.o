@@ -1,0 +1,46 @@
+!<thin>
+//                                              678       `
+of_touchscreen.o/
+mediatek/mtk_tpd.o/
+mediatek/tpd_button.o/
+mediatek/tpd_calibrate.o/
+mediatek/tpd_debug.o/
+mediatek/tpd_default.o/
+mediatek/tpd_misc.o/
+mediatek/tpd_setting.o/
+mediatek/hxchipset_p11/himax_ic_HX83102.o/
+mediatek/hxchipset_p11/himax_debug.o/
+mediatek/hxchipset_p11/himax_inspection.o/
+mediatek/hxchipset_p11/himax_ic_incell_core.o/
+mediatek/hxchipset_p11/himax_common.o/
+mediatek/hxchipset_p11/himax_platform.o/
+mediatek/NT36xxx_p11/nt36xxx.o/
+mediatek/NT36xxx_p11/nt36xxx_fw_update.o/
+mediatek/NT36xxx_p11/nt36xxx_ext_proc.o/
+mediatek/NT36xxx_p11/nt36xxx_mp_ctrlram.o/
+mediatek/NT36xxx_p11/nt36xxx_ext_sysfs.o/
+lct_tp_info.o/
+lct_tp_selftest.o/
+lct_tp_work.o/
+/0              0           0     0     644     138544    `
+/18             0           0     0     644     239584    `
+/38             0           0     0     644     137832    `
+/61            /0           0     0     644     6296      `
+/87             0           0     0     644     247456    `
+/109            0           0     0     644     3112      `
+/133            0           0     0     644     106840    `
+/154            0           0     0     644     113704    `
+/178            0           0     0     644     279232    `
+/221            0           0     0     644     381672    `
+/259            0           0     0     644     314616    `
+/302            0           0     0     644     425368    `
+/349            0           0     0     644     414720    `
+/388            0           0     0     644     250160    `
+/429            0           0     0     644     365136    `
+/461            0           0     0     644     170792    `
+/503            0           0     0     644     205664    `
+/544            0           0     0     644     492160    `
+/587            0           0     0     644     136896    `
+/629            0           0     0     644     125704    `
+/644            0           0     0     644     190112    `
+/663            0           0     0     644     119552    `

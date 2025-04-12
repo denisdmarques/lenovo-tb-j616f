@@ -1,0 +1,1 @@
+cmd_drivers/mmc/host/built-in.o :=   rm -f drivers/mmc/host/built-in.o; /home/chenyl6/p11-plus-s-kernel/wifi/kernel-4.14/../prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9.1/bin/aarch64-linux-androidkernel-ar rcSTPD drivers/mmc/host/built-in.o drivers/mmc/host/mediatek/built-in.o drivers/mmc/host/cmdq_hci.o drivers/mmc/host/cqhci-crypto.o 

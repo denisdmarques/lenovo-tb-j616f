@@ -1,0 +1,19 @@
+!<thin>
+//                                              128       `
+external_display.o/
+mtk_extd_mgr.o/
+extd_debug.o/
+extd_utils.o/
+extd_hdmi.o/
+extd_epd.o/
+extd_multi_control.o/
+extd_factory.o/
+
+/0              0           0     0     644     479072    `
+/20             0           0     0     644     236904    `
+/36             0           0     0     644     1224      `
+/50             0           0     0     644     18040     `
+/64             0           0     0     644     4832      `
+/77             0           0     0     644     4832      `
+/89             0           0     0     644     216608    `
+/111            0           0     0     644     5440      `

@@ -1,0 +1,52 @@
+!<thin>
+//                                              382       `
+mtkfb_console.o/
+disp_assert_layer.o/
+mtkfb.o/
+mtkfb_fence.o/
+fbconfig_kdebug.o/
+mtkfb_vsync.o/
+debug.o/
+primary_display.o/
+disp_lowpower.o/
+disp_recovery.o/
+disp_lcm.o/
+disp_utils.o/
+mtk_disp_mgr.o/
+compat_mtk_disp_mgr.o/
+disp_helper.o/
+disp_dts_gpio.o/
+disp_rect.o/
+disp_arr.o/
+disp_partial.o/
+mtk_ovl.o/
+layering_rule.o/
+frame_queue.o/
+disp_pm_qos.o/
+disp_cust.o/
+disp_tphint.o/
+/0             /0           0     0     644     44896     `
+/17             0           0     0     644     51968     `
+/38             0           0     0     644     563624    `
+/47             0           0     0     644     301144    `
+/62             0           0     0     644     1337424   `
+/81             0           0     0     644     190640    `
+/96             0           0     0     644     396344    `
+/105            0           0     0     644     1406704   `
+/124           /0           0     0     644     410680    `
+/141           /0           0     0     644     395208    `
+/158            0           0     0     644     291936    `
+/170            0           0     0     644     7736      `
+/184            0           0     0     644     495960    `
+/200            0           0     0     644     2481872   `
+/223            0           0     0     644     29400     `
+/238           /0           0     0     644     162944    `
+/255            0           0     0     644     15536     `
+/268            0           0     0     644     50904     `
+/280            0           0     0     644     74288     `
+/296            0           0     0     644     442280    `
+/307           /0           0     0     644     113592    `
+/324            0           0     0     644     200464    `
+/339            0           0     0     644     77120     `
+/354            0           0     0     644     11448     `
+/367            0           0     0     644     196208    `

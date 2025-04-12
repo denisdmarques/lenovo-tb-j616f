@@ -1,0 +1,39 @@
+!<thin>
+//                                              830       `
+../common/v1_1/imgsensor.o/
+../common/v1_1/imgsensor_hw.o/
+../common/v1_1/imgsensor_i2c.o/
+../common/v1_1/imgsensor_legacy.o/
+../common/v1_1/imgsensor_proc.o/
+../common/v1_1/imgsensor_sensor_list.o/
+../common/v1_1/seninf.o/
+../common/v1_1/ov13b10ofilm_mipi_raw/ov13b10ofilmmipiraw_Sensor.o/
+../common/v1_1/s5k4h7yxlce_mipi_raw/s5k4h7yxlceotp.o/
+../common/v1_1/s5k4h7yxlce_mipi_raw/s5k4h7yxlcemipiraw_Sensor.o/
+../common/v1_1/ov13b10qtech_mipi_raw/ov13b10qtechmipiraw_Sensor.o/
+../common/v1_1/ov8856sub_mipi_raw/ov8856submipiraw_Sensor.o/
+../common/v1_1/ov8856sub_mipi_raw/ov8856subotp.o/
+camera_project/tb8185p3_64/camera_hw/regulator/regulator.o/
+camera_project/tb8185p3_64/camera_hw/gpio/gpio.o/
+camera_project/tb8185p3_64/camera_hw/mclk/mclk.o/
+camera_project/tb8185p3_64/camera_hw/imgsensor_cfg_table.o/
+seninf/seninf_clk.o/
+
+/0              0           0     0     644     856992    `
+/28             0           0     0     644     198152    `
+/59            /0           0     0     644     160544    `
+/91             0           0     0     644     148880    `
+/126            0           0     0     644     254656    `
+/159            0           0     0     644     36736     `
+/199            0           0     0     644     213712    `
+/224            0           0     0     644     121888    `
+/291            0           0     0     644     34096     `
+/345            0           0     0     644     180696    `
+/410            0           0     0     644     121992    `
+/477            0           0     0     644     128288    `
+/538            0           0     0     644     29656     `
+/588            0           0     0     644     148632    `
+/648            0           0     0     644     139304    `
+/698            0           0     0     644     141904    `
+/748            0           0     0     644     133384    `
+/808            0           0     0     644     148368    `

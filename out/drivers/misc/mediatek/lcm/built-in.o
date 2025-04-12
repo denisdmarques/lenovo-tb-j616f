@@ -1,0 +1,27 @@
+!<thin>
+//                                              312       `
+mt65xx_lcm_list.o/
+lcm_common.o/
+lcm_gpio.o/
+lcm_i2c.o/
+lcm_pmic.o/
+lcm_util.o/
+KTZ8864A.o/
+OCP2138.o/
+SGM37604A.o/
+hx83102p_fhdp_dsi_vdo_boe_p522/hx83102p_fhdp_dsi_vdo_boe_p522.o/
+nt36523w_fhdp_dsi_vdo_boe_p522/nt36523w_fhdp_dsi_vdo_boe_p522.o/
+nt36523w_fhdp_dsi_vdo_inx_p522/nt36523w_fhdp_dsi_vdo_inx_p522.o/
+
+/0              0           0     0     644     34600     `
+/19             0           0     0     644     1224      `
+/33             0           0     0     644     1216      `
+/45             0           0     0     644     2456      `
+/56             0           0     0     644     7552      `
+/68             0           0     0     644     1216      `
+/80             0           0     0     644     165280    `
+/92             0           0     0     644     146416    `
+/103            0           0     0     644     146496    `
+/116            0           0     0     644     222240    `
+/181            0           0     0     644     252080    `
+/246            0           0     0     644     251976    `

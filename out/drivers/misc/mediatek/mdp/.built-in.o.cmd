@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/mdp/built-in.o :=   rm -f drivers/misc/mediatek/mdp/built-in.o; /home/chenyl6/p11-plus-s-kernel/wifi/kernel-4.14/../prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9.1/bin/aarch64-linux-androidkernel-ar rcSTPD drivers/misc/mediatek/mdp/built-in.o drivers/misc/mediatek/mdp/mdp_ioctl_ex.o drivers/misc/mediatek/mdp/mdp_m4u.o 

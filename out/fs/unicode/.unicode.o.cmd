@@ -1,0 +1,1 @@
+cmd_fs/unicode/unicode.o :=  rm -f fs/unicode/unicode.o; /home/chenyl6/p11-plus-s-kernel/wifi/kernel-4.14/../prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9.1/bin/aarch64-linux-androidkernel-ar rcSTPD fs/unicode/unicode.o fs/unicode/utf8-norm.o fs/unicode/utf8-core.o 

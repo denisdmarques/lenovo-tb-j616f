@@ -1,0 +1,1 @@
+cmd_net/ipv4/netfilter/nf_conntrack_ipv4.o :=  rm -f net/ipv4/netfilter/nf_conntrack_ipv4.o; /home/chenyl6/p11-plus-s-kernel/wifi/kernel-4.14/../prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9.1/bin/aarch64-linux-androidkernel-ar rcSTPD net/ipv4/netfilter/nf_conntrack_ipv4.o net/ipv4/netfilter/nf_conntrack_l3proto_ipv4.o net/ipv4/netfilter/nf_conntrack_proto_icmp.o 

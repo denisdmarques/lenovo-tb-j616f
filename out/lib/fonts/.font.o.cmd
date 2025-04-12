@@ -1,0 +1,1 @@
+cmd_lib/fonts/font.o :=  rm -f lib/fonts/font.o; /home/chenyl6/p11-plus-s-kernel/wifi/kernel-4.14/../prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9.1/bin/aarch64-linux-androidkernel-ar rcSTPD lib/fonts/font.o lib/fonts/fonts.o lib/fonts/font_8x16.o 

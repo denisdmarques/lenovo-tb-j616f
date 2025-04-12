@@ -1,0 +1,15 @@
+!<thin>
+//                                              126       `
+mtk_battery.o/
+mtk_power_misc.o/
+mtk_gauge_coulomb_service.o/
+mtk_gauge_class.o/
+mtk_battery_recovery.o/
+mtk_battery_core.o/
+
+/0              0           0     0     644     666664    `
+/15             0           0     0     644     305296    `
+/33             0           0     0     644     318904    `
+/62             0           0     0     644     359480    `
+/81             0           0     0     644     214360    `
+/105            0           0     0     644     1076216   `

@@ -1,0 +1,1 @@
+cmd_net/ipv6/netfilter/nf_defrag_ipv6.o :=  rm -f net/ipv6/netfilter/nf_defrag_ipv6.o; /home/chenyl6/p11-plus-s-kernel/wifi/kernel-4.14/../prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9.1/bin/aarch64-linux-androidkernel-ar rcSTPD net/ipv6/netfilter/nf_defrag_ipv6.o net/ipv6/netfilter/nf_defrag_ipv6_hooks.o net/ipv6/netfilter/nf_conntrack_reasm.o 

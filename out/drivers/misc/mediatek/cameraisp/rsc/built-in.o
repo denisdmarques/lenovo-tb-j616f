@@ -1,0 +1,9 @@
+!<thin>
+//                                              60        `
+camera_rsc_dummy.o/
+engine_request.o/
+mt6785/camera_rsc.o/
+
+/0              0           0     0     644     1224      `
+/20             0           0     0     644     78528     `
+/38             0           0     0     644     694048    `

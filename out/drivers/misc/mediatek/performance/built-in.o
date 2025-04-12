@@ -1,0 +1,90 @@
+!<thin>
+//                                              1218      `
+perfmgr_main.o/
+base/utility.o/
+boost_ctrl/boostctrl_main.o/
+boost_ctrl/dram_ctrl/dram_ctrl.o/
+boost_ctrl/cpu_ctrl/cpu_ctrl.o/
+boost_ctrl/cpu_ctrl/cpu_ctrl_cfp.o/
+boost_ctrl/eas_ctrl/eas_ctrl.o/
+boost_ctrl/topo_ctrl/topo_ctrl.o/
+tchbst/tchbst_main.o/
+tchbst/user/utch.o/
+tchbst/kernel/ktch.o/
+syslimiter/syslimiter.o/
+observer/pob_main.o/
+observer/fpsgo_notify.o/
+observer/qos_notify.o/
+observer/nn_notify.o/
+observer/xpu_notify.o/
+observer/eara_thrm_notify.o/
+observer/platform/mt6785/qos_pfm.o/
+resym/rs_trace.o/
+resym/rs_base.o/
+resym/rs_main.o/
+resym/rs_usage.o/
+resym/rs_state.o/
+resym/rs_index.o/
+resym/platform/mt6785/rs_vpu_pfm.o/
+resym/platform/mt6785/rs_mdla_pfm.o/
+perf_ioctl/perf_ioctl.o/
+fpsgo_v3/fpsgo_main.o/
+fpsgo_v3/base/src/fpsgo_base.o/
+fpsgo_v3/base/src/fpsgo_sysfs.o/
+fpsgo_v3/composer/src/fps_composer.o/
+fpsgo_v3/fbt/platform/mt6785/fbt_cpu_platform.o/
+fpsgo_v3/fbt/src/fbt_cpu.o/
+fpsgo_v3/fbt/src/xgf.o/
+fpsgo_v3/fbt/src/mini_top.o/
+fpsgo_v3/fbt/src/uboost.o/
+fpsgo_v3/fstb/fstb.o/
+eara_thermal/platform/mt6785/thermal_budget_platform.o/
+eara_thermal/src/thermal_budget.o/
+eara_thermal/src/thermal_base.o/
+eara_thermal/src/thermal_prethrottle.o/
+load_track/load_track.o/
+uload_ind/uload_ind.o/
+/0              0           0     0     644     157024    `
+/16             0           0     0     644     181712    `
+/32             0           0     0     644     5992      `
+/61             0           0     0     644     132128    `
+/95             0           0     0     644     252464    `
+/127            0           0     0     644     246624    `
+/163            0           0     0     644     328024    `
+/195            0           0     0     644     117464    `
+/229            0           0     0     644     5432      `
+/251            0           0     0     644     203200    `
+/271            0           0     0     644     208704    `
+/293            0           0     0     644     208424    `
+/318            0           0     0     644     199648    `
+/339            0           0     0     644     9856      `
+/364            0           0     0     644     242384    `
+/387            0           0     0     644     8416      `
+/409            0           0     0     644     11728     `
+/432            0           0     0     644     8384      `
+/461            0           0     0     644     49888     `
+/497            0           0     0     644     166632    `
+/515            0           0     0     644     99392     `
+/532            0           0     0     644     17736     `
+/549            0           0     0     644     234520    `
+/567            0           0     0     644     22136     `
+/585            0           0     0     644     225152    `
+/603            0           0     0     644     6112      `
+/639            0           0     0     644     4552      `
+/676            0           0     0     644     212032    `
+/701            0           0     0     644     282280    `
+/724            0           0     0     644     315440    `
+/756            0           0     0     644     22992     `
+/789            0           0     0     644     184680    `
+/827            0           0     0     644     24648     `
+/876            0           0     0     644     640376    `
+/904            0           0     0     644     626048    `
+/928            0           0     0     644     240152    `
+/957            0           0     0     644     158040    `
+/984            0           0     0     644     399536    `
+/1006           0           0     0     644     11144     `
+/1062           0           0     0     644     450248    `
+/1097           0           0     0     644     182776    `
+/1130           0           0     0     644     14696     `
+/1170           0           0     0     644     92840     `
+/1195           0           0     0     644     192504    `

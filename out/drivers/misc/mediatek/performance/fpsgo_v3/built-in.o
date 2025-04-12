@@ -1,0 +1,23 @@
+!<thin>
+//                                              216       `
+fpsgo_main.o/
+base/src/fpsgo_base.o/
+base/src/fpsgo_sysfs.o/
+composer/src/fps_composer.o/
+fbt/platform/mt6785/fbt_cpu_platform.o/
+fbt/src/fbt_cpu.o/
+fbt/src/xgf.o/
+fbt/src/mini_top.o/
+fbt/src/uboost.o/
+fstb/fstb.o/
+
+/0              0           0     0     644     282280    `
+/14             0           0     0     644     315440    `
+/37             0           0     0     644     22992     `
+/61             0           0     0     644     184680    `
+/90             0           0     0     644     24648     `
+/130            0           0     0     644     640376    `
+/149            0           0     0     644     626048    `
+/164            0           0     0     644     240152    `
+/184            0           0     0     644     158040    `
+/202            0           0     0     644     399536    `

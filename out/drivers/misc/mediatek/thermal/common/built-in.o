@@ -1,0 +1,44 @@
+!<thin>
+//                                              586       `
+mtk_thermal_platform.o/
+ap_thermal_limit.o/
+thermal_zones/mtk_ts_battery.o/
+thermal_zones/mtk_ts_bts.o/
+thermal_zones/mtk_ts_cpu_noBank.o/
+thermal_zones/mtk_ts_pa.o/
+thermal_zones/mtk_ts_pa_thput.o/
+thermal_zones/mtk_ts_pmic.o/
+thermal_zones/mtk_ts_charger.o/
+thermal_zones/mtk_ts_wmt.o/
+thermal_zones/mtk_tsAll.o/
+thermal_zones/mtk_ts_imgsensor.o/
+coolers/mtk_ta.o/
+coolers/mtk_cooler_mutt.o/
+coolers/mtk_cooler_bcct_v1.o/
+coolers/mtk_cooler_bcct_2nd.o/
+coolers/mtk_cooler_atm.o/
+coolers/mtk_cooler_dtm.o/
+coolers/mtk_cooler_sysrst.o/
+coolers/mtk_cooler_VR_FPS.o/
+mtk_thermal_timer.o/
+/0              0           0     0     644     206032    `
+/24             0           0     0     644     35744     `
+/44             0           0     0     644     224344    `
+/76             0           0     0     644     256208    `
+/104            0           0     0     644     306608    `
+/139            0           0     0     644     312672    `
+/166            0           0     0     644     239296    `
+/199            0           0     0     644     206144    `
+/228            0           0     0     644     183472    `
+/260            0           0     0     644     438560    `
+/288            0           0     0     644     475488    `
+/315            0           0     0     644     531584    `
+/349            0           0     0     644     313440    `
+/367            0           0     0     644     324296    `
+/394            0           0     0     644     333552    `
+/424            0           0     0     644     309640    `
+/455            0           0     0     644     434352    `
+/481            0           0     0     644     172080    `
+/507            0           0     0     644     143304    `
+/536            0           0     0     644     150848    `
+/565            0           0     0     644     19280     `

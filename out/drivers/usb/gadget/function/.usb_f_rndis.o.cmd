@@ -1,0 +1,1 @@
+cmd_drivers/usb/gadget/function/usb_f_rndis.o :=  rm -f drivers/usb/gadget/function/usb_f_rndis.o; /home/chenyl6/p11-plus-s-kernel/wifi/kernel-4.14/../prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9.1/bin/aarch64-linux-androidkernel-ar rcSTPD drivers/usb/gadget/function/usb_f_rndis.o drivers/usb/gadget/function/f_rndis.o drivers/usb/gadget/function/rndis.o 

@@ -1,0 +1,1 @@
+cmd_include/generated/vdso-offsets.h := 	/home/chenyl6/p11-plus-s-kernel/wifi/kernel-4.14/../prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9.1/bin/aarch64-linux-androidkernel-nm arch/arm64/kernel/vdso/vdso.so.dbg | ../arch/arm64/kernel/vdso/gen_vdso_offsets.sh | LC_ALL=C sort > include/generated/vdso-offsets.h

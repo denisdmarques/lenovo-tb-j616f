@@ -1,0 +1,98 @@
+!<thin>
+//                                              1048      `
+dispsys/ddp_ovl.o/
+dispsys/ddp_ovl_wcg.o/
+dispsys/ddp_rdma_ex.o/
+dispsys/ddp_wdma_ex.o/
+dispsys/ddp_dsi.o/
+dispsys/ddp_clkmgr.o/
+dispsys/ddp_rsz.o/
+dispsys/ddp_postmask.o/
+dispsys/ddp_drv.o/
+dispsys/ddp_path.o/
+dispsys/ddp_mutex.o/
+dispsys/ddp_m4u.o/
+dispsys/ddp_debug.o/
+dispsys/ddp_dump.o/
+dispsys/ddp_manager.o/
+dispsys/ddp_irq.o/
+dispsys/ddp_info.o/
+dispsys/ddp_color_format.o/
+dispsys/ddp_pwm_mux.o/
+dispsys/ddp_misc.o/
+dispsys/ddp_mmp.o/
+dispsys/ddp_met.o/
+dispsys/display_recorder.o/
+videox/mtkfb_console.o/
+videox/disp_assert_layer.o/
+videox/mtkfb.o/
+videox/mtkfb_fence.o/
+videox/fbconfig_kdebug.o/
+videox/mtkfb_vsync.o/
+videox/debug.o/
+videox/primary_display.o/
+videox/disp_lowpower.o/
+videox/disp_recovery.o/
+videox/disp_lcm.o/
+videox/disp_utils.o/
+videox/mtk_disp_mgr.o/
+videox/compat_mtk_disp_mgr.o/
+videox/disp_helper.o/
+videox/disp_dts_gpio.o/
+videox/disp_rect.o/
+videox/disp_arr.o/
+videox/disp_partial.o/
+videox/mtk_ovl.o/
+videox/layering_rule.o/
+videox/frame_queue.o/
+videox/disp_pm_qos.o/
+videox/disp_cust.o/
+videox/disp_tphint.o/
+/0              0           0     0     644     868056    `
+/19             0           0     0     644     243448    `
+/42             0           0     0     644     542848    `
+/65             0           0     0     644     547504    `
+/88             0           0     0     644     1397904   `
+/107            0           0     0     644     271936    `
+/129            0           0     0     644     296920    `
+/148            0           0     0     644     312096    `
+/172            0           0     0     644     230488    `
+/191            0           0     0     644     308408    `
+/211            0           0     0     644     228992    `
+/232            0           0     0     644     229784    `
+/251            0           0     0     644     250752    `
+/272            0           0     0     644     478096    `
+/292            0           0     0     644     439832    `
+/315            0           0     0     644     247144    `
+/334            0           0     0     644     85304     `
+/354            0           0     0     644     24952     `
+/382            0           0     0     644     177720    `
+/405            0           0     0     644     244616    `
+/425            0           0     0     644     72168     `
+/444            0           0     0     644     178256    `
+/463            0           0     0     644     297432    `
+/491           /0           0     0     644     44896     `
+/515            0           0     0     644     51968     `
+/543            0           0     0     644     563624    `
+/559            0           0     0     644     301144    `
+/581            0           0     0     644     1337424   `
+/607            0           0     0     644     190640    `
+/629            0           0     0     644     396344    `
+/645            0           0     0     644     1406704   `
+/671           /0           0     0     644     410680    `
+/695           /0           0     0     644     395208    `
+/719            0           0     0     644     291936    `
+/738            0           0     0     644     7736      `
+/759            0           0     0     644     495960    `
+/782            0           0     0     644     2481872   `
+/812            0           0     0     644     29400     `
+/834           /0           0     0     644     162944    `
+/858            0           0     0     644     15536     `
+/878            0           0     0     644     50904     `
+/897            0           0     0     644     74288     `
+/920            0           0     0     644     442280    `
+/938           /0           0     0     644     113592    `
+/962            0           0     0     644     200464    `
+/984            0           0     0     644     77120     `
+/1006           0           0     0     644     11448     `
+/1026           0           0     0     644     196208    `

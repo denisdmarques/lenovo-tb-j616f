@@ -1,0 +1,10 @@
+!<thin>
+//                                              112       `
+platform/mt6785/thermal_budget_platform.o/
+src/thermal_budget.o/
+src/thermal_base.o/
+src/thermal_prethrottle.o/
+/0              0           0     0     644     11144     `
+/43             0           0     0     644     450248    `
+/65             0           0     0     644     182776    `
+/85             0           0     0     644     14696     `

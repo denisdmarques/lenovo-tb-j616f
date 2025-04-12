@@ -1,0 +1,1 @@
+cmd_lib/lz4/built-in.o :=   rm -f lib/lz4/built-in.o; /home/chenyl6/p11-plus-s-kernel/wifi/kernel-4.14/../prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9.1/bin/aarch64-linux-androidkernel-ar rcSTPD lib/lz4/built-in.o lib/lz4/lz4_compress.o lib/lz4/lz4_decompress.o 

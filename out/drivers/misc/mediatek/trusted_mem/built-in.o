@@ -1,0 +1,31 @@
+!<thin>
+//                                              220       `
+dev_mgr.o/
+entry.o/
+region_mgr.o/
+ssmr_mgr.o/
+peer_mgr.o/
+proc.o/
+alloc_api.o/
+mpu_vio_checker.o/
+tee_devices.o/
+tee_impl/tee_invoke.o/
+tee_impl/tee_ops.o/
+mtee_devices.o/
+mtee_impl/mtee_ops.o/
+mtee_impl/mtee_invoke.o/
+
+/0              0           0     0     644     27384     `
+/11             0           0     0     644     52984     `
+/20             0           0     0     644     39712     `
+/34             0           0     0     644     12760     `
+/46             0           0     0     644     30960     `
+/58             0           0     0     644     171528    `
+/66             0           0     0     644     15928     `
+/79             0           0     0     644     5256      `
+/98             0           0     0     644     25104     `
+/113            0           0     0     644     16792     `
+/136            0           0     0     644     133464    `
+/156            0           0     0     644     22904     `
+/172            0           0     0     644     35584     `
+/194            0           0     0     644     18208     `

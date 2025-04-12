@@ -1,0 +1,18 @@
+!<thin>
+//                                              268       `
+devfreq.o/
+governor_simpleondemand.o/
+helio-dvfsrc-v3/helio-dvfsrc-qos.o/
+helio-dvfsrc-v3/helio-dvfsrc-sysfs.o/
+helio-dvfsrc-v3/helio-dvfsrc-opp.o/
+helio-dvfsrc-v3/helio-dvfsrc-opp-mt6785.o/
+helio-dvfsrc-v3/helio-dvfsrc-mt6785.o/
+helio-dvfsrc-v3/helio-dvfsrc-ip-v2.o/
+/0              0           0     0     644     262688    `
+/11             0           0     0     644     128720    `
+/38             0           0     0     644     170016    `
+/74             0           0     0     644     148016    `
+/112            0           0     0     644     19088     `
+/148            0           0     0     644     122320    `
+/191            0           0     0     644     563984    `
+/230            0           0     0     644     194768    `

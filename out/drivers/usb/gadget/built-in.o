@@ -1,0 +1,52 @@
+!<thin>
+//                                              428       `
+usbstring.o/
+config.o/
+epautoconf.o/
+composite.o/
+functions.o/
+configfs.o/
+u_f.o/
+meta.o/
+udc/core.o/
+udc/trace.o/
+function/f_acm.o/
+function/u_serial.o/
+function/f_serial.o/
+function/u_ether.o/
+function/f_rndis.o/
+function/rndis.o/
+function/f_mass_storage.o/
+function/storage_common.o/
+function/f_fs.o/
+function/f_midi.o/
+function/f_hid.o/
+function/f_audio_source.o/
+function/f_accessory.o/
+function/f_mtp.o/
+function/f_ptp.o/
+/0              0           0     0     644     8304      `
+/13             0           0     0     644     157264    `
+/23             0           0     0     644     134504    `
+/37             0           0     0     644     312728    `
+/50             0           0     0     644     151728    `
+/63             0           0     0     644     369648    `
+/75             0           0     0     644     12128     `
+/82             0           0     0     644     273136    `
+/90             0           0     0     644     388952    `
+/102            0           0     0     644     242480    `
+/115            0           0     0     644     187328    `
+/133            0           0     0     644     260296    `
+/154            0           0     0     644     161232    `
+/175            0           0     0     644     434920    `
+/195            0           0     0     644     315872    `
+/215            0           0     0     644     332816    `
+/233            0           0     0     644     465792    `
+/260            0           0     0     644     208304    `
+/287            0           0     0     644     498016    `
+/304            0           0     0     644     251416    `
+/323            0           0     0     644     257760    `
+/341            0           0     0     644     245648    `
+/368            0           0     0     644     334704    `
+/392            0           0     0     644     445464    `
+/410            0           0     0     644     140904    `

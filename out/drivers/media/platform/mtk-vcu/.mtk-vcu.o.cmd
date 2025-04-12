@@ -1,0 +1,1 @@
+cmd_drivers/media/platform/mtk-vcu/mtk-vcu.o :=  rm -f drivers/media/platform/mtk-vcu/mtk-vcu.o; /home/chenyl6/p11-plus-s-kernel/wifi/kernel-4.14/../prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9.1/bin/aarch64-linux-androidkernel-ar rcSTPD drivers/media/platform/mtk-vcu/mtk-vcu.o drivers/media/platform/mtk-vcu/mtk_vcu.o drivers/media/platform/mtk-vcu/mtk_vcodec_mem.o 

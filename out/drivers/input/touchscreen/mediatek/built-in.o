@@ -1,0 +1,39 @@
+!<thin>
+//                                              450       `
+mtk_tpd.o/
+tpd_button.o/
+tpd_calibrate.o/
+tpd_debug.o/
+tpd_default.o/
+tpd_misc.o/
+tpd_setting.o/
+hxchipset_p11/himax_ic_HX83102.o/
+hxchipset_p11/himax_debug.o/
+hxchipset_p11/himax_inspection.o/
+hxchipset_p11/himax_ic_incell_core.o/
+hxchipset_p11/himax_common.o/
+hxchipset_p11/himax_platform.o/
+NT36xxx_p11/nt36xxx.o/
+NT36xxx_p11/nt36xxx_fw_update.o/
+NT36xxx_p11/nt36xxx_ext_proc.o/
+NT36xxx_p11/nt36xxx_mp_ctrlram.o/
+NT36xxx_p11/nt36xxx_ext_sysfs.o/
+
+/0              0           0     0     644     239584    `
+/11             0           0     0     644     137832    `
+/25            /0           0     0     644     6296      `
+/42             0           0     0     644     247456    `
+/55             0           0     0     644     3112      `
+/70             0           0     0     644     106840    `
+/82             0           0     0     644     113704    `
+/97             0           0     0     644     279232    `
+/131            0           0     0     644     381672    `
+/160            0           0     0     644     314616    `
+/194            0           0     0     644     425368    `
+/232            0           0     0     644     414720    `
+/262            0           0     0     644     250160    `
+/294            0           0     0     644     365136    `
+/317            0           0     0     644     170792    `
+/350            0           0     0     644     205664    `
+/382            0           0     0     644     492160    `
+/416            0           0     0     644     136896    `

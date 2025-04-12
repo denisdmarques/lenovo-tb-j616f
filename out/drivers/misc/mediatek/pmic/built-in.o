@@ -1,0 +1,65 @@
+!<thin>
+//                                              850       `
+common/upmu.o/
+common/upmu_regulator.o/
+common/upmu_debugfs.o/
+common/upmu_initial_setting.o/
+common/upmu_lbat_service_v2.o/
+mt6359/v1/pmic_ipi.o/
+mt6359/v1/mt6359_gauge.o/
+mt6359/v1/pmic.o/
+mt6359/v1/pmic_common.o/
+mt6359/v1/pmic_debugfs.o/
+mt6359/v1/pmic_irq.o/
+mt6359/v1/pmic_initial_setting.o/
+mt6359/v1/pmic_api.o/
+mt6359/v1/pmic_auxadc.o/
+mt6359/v1/regulator_codegen.o/
+mt6359/v1/pmic_lp_api.o/
+mt6359/v1/pmic_efuse.o/
+mt6359/v1/pmic_throttling_dlpt.o/
+mt6360/pmu/mt6360_pmu_i2c.o/
+mt6360/pmu/mt6360_pmu_regmap.o/
+mt6360/pmu/mt6360_pmu_irq.o/
+mt6360/pmu/mt6360_pmu_subdev.o/
+mt6360/pmu/mt6360_pmu_core.o/
+mt6360/pmu/mt6360_pmu_adc.o/
+mt6360/pmu/mt6360_pmu_fled.o/
+mt6360/pmu/mt6360_pmu_chg.o/
+mt6360/pmic/mt6360_pmic_i2c.o/
+mt6360/pmic/mt6360_pmic_regmap.o/
+mt6360/ldo/mt6360_ldo_i2c.o/
+mt6360/ldo/mt6360_ldo_regmap.o/
+mtk_battery_adc_intf.o/
+
+/0              0           0     0     644     663600    `
+/15             0           0     0     644     220544    `
+/40             0           0     0     644     162632    `
+/63             0           0     0     644     430064    `
+/94             0           0     0     644     615080    `
+/125            0           0     0     644     12488     `
+/147            0           0     0     644     945168    `
+/173            0           0     0     644     600280    `
+/191            0           0     0     644     517240    `
+/216            0           0     0     644     581280    `
+/242            0           0     0     644     616912    `
+/264            0           0     0     644     448200    `
+/298            0           0     0     644     6287024   `
+/320            0           0     0     644     735984    `
+/345            0           0     0     644     958984    `
+/376            0           0     0     644     47176     `
+/401            0           0     0     644     432056    `
+/425            0           0     0     644     877232    `
+/459            0           0     0     644     191072    `
+/488            0           0     0     644     202144    `
+/520            0           0     0     644     161936    `
+/549            0           0     0     644     137744    `
+/581            0           0     0     644     161224    `
+/611            0           0     0     644     201040    `
+/640            0           0     0     644     214920    `
+/670            0           0     0     644     1053880   `
+/699            0           0     0     644     295776    `
+/730            0           0     0     644     146552    `
+/764            0           0     0     644     261200    `
+/793            0           0     0     644     134728    `
+/825            0           0     0     644     439904    `

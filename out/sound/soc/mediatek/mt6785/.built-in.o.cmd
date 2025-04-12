@@ -1,0 +1,1 @@
+cmd_sound/soc/mediatek/mt6785/built-in.o :=   rm -f sound/soc/mediatek/mt6785/built-in.o; /home/chenyl6/p11-plus-s-kernel/wifi/kernel-4.14/../prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9.1/bin/aarch64-linux-androidkernel-ar rcSTPD sound/soc/mediatek/mt6785/built-in.o sound/soc/mediatek/mt6785/snd-soc-mt6785-afe.o sound/soc/mediatek/mt6785/mt6785-mt6359.o 

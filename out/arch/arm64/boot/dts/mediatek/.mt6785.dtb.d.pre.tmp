@@ -1,0 +1,22 @@
+arch/arm64/boot/dts/mediatek/.mt6785.dtb.dts.tmp: \
+  ../arch/arm64/boot/dts/mediatek/mt6785.dts \
+  ../scripts/dtc/include-prefixes/dt-bindings/clock/mt6785-clk.h \
+  ../scripts/dtc/include-prefixes/dt-bindings/interrupt-controller/arm-gic.h \
+  ../scripts/dtc/include-prefixes/dt-bindings/interrupt-controller/irq.h \
+  ../scripts/dtc/include-prefixes/dt-bindings/mmc/mt6785-msdc.h \
+  ../scripts/dtc/include-prefixes/dt-bindings/pinctrl/mt6785-pinfunc.h \
+  ../scripts/dtc/include-prefixes/dt-bindings/pinctrl/mt65xx.h \
+  ../scripts/dtc/include-prefixes/dt-bindings/memory/mt6785-larb-port.h \
+  ../scripts/dtc/include-prefixes/dt-bindings/gce/mt6785-gce.h \
+  ../scripts/dtc/include-prefixes/dt-bindings/gce/mt6382-gce.h \
+  ../scripts/dtc/include-prefixes/dt-bindings/iio/mt635x-auxadc.h \
+  ../scripts/dtc/include-prefixes/dt-bindings/mfd/mt6359-irq.h \
+  include/generated/autoconf.h \
+  ../arch/arm64/boot/dts/mediatek/bat_setting/mt6785_battery_prop.dtsi \
+  ../arch/arm64/boot/dts/mediatek/bat_setting/mt6785_battery_table.dtsi \
+  ../arch/arm64/boot/dts/mediatek/bat_setting/mt6785_battery_prop_dim2_ext.dtsi \
+  ../arch/arm64/boot/dts/mediatek/mt6359.dtsi \
+  ../arch/arm64/boot/dts/mediatek/cust_mt6785_msdc.dtsi \
+  ../arch/arm64/boot/dts/mediatek/mt6360.dtsi \
+  ../arch/arm64/boot/dts/mediatek/mt6360_pd.dtsi \
+  ../arch/arm64/boot/dts/mediatek/trusty.dtsi
